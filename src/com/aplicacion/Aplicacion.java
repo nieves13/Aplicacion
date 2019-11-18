@@ -1,6 +1,10 @@
 package com.aplicacion;
 
-
+/**
+ * 
+ * @author nieves
+ * @version 1.1
+ */
 public class Aplicacion {
 	/**
 	 * El metodo sirve para comprobar los valores introducidos y darnos un veredicto con respecto a la calificación que esperabamos conseguir y la que hemos conseguido al final.
